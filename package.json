@@ -1,8 +1,8 @@
 {
-  "name": "monsters-rolodex",
+  "name": "monsters-goons-goblins",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rjr211.github.io/monsters-rolodex",
+  "homepage": "https://rjr211.github.io/monsters-goons-goblins",
   "dependencies": {
     "gh-pages": "2.0.1",
     "react": "^16.8.6",
