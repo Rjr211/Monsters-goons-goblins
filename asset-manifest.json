@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monsters-goons-goblins/static/css/main.7626a7e2.chunk.css",
-    "main.js": "/monsters-goons-goblins/static/js/main.3f5f8bec.chunk.js",
-    "main.js.map": "/monsters-goons-goblins/static/js/main.3f5f8bec.chunk.js.map",
-    "runtime-main.js": "/monsters-goons-goblins/static/js/runtime-main.ff5bad28.js",
-    "runtime-main.js.map": "/monsters-goons-goblins/static/js/runtime-main.ff5bad28.js.map",
-    "static/js/2.9aeb243a.chunk.js": "/monsters-goons-goblins/static/js/2.9aeb243a.chunk.js",
-    "static/js/2.9aeb243a.chunk.js.map": "/monsters-goons-goblins/static/js/2.9aeb243a.chunk.js.map",
-    "index.html": "/monsters-goons-goblins/index.html",
-    "precache-manifest.80543fa4fa5c108acc5b694283b11412.js": "/monsters-goons-goblins/precache-manifest.80543fa4fa5c108acc5b694283b11412.js",
-    "service-worker.js": "/monsters-goons-goblins/service-worker.js",
-    "static/css/main.7626a7e2.chunk.css.map": "/monsters-goons-goblins/static/css/main.7626a7e2.chunk.css.map",
-    "static/js/2.9aeb243a.chunk.js.LICENSE": "/monsters-goons-goblins/static/js/2.9aeb243a.chunk.js.LICENSE"
+    "main.css": "/Monsters-goons-goblins/static/css/main.7626a7e2.chunk.css",
+    "main.js": "/Monsters-goons-goblins/static/js/main.b3855f26.chunk.js",
+    "main.js.map": "/Monsters-goons-goblins/static/js/main.b3855f26.chunk.js.map",
+    "runtime-main.js": "/Monsters-goons-goblins/static/js/runtime-main.8fe4388d.js",
+    "runtime-main.js.map": "/Monsters-goons-goblins/static/js/runtime-main.8fe4388d.js.map",
+    "static/js/2.9aeb243a.chunk.js": "/Monsters-goons-goblins/static/js/2.9aeb243a.chunk.js",
+    "static/js/2.9aeb243a.chunk.js.map": "/Monsters-goons-goblins/static/js/2.9aeb243a.chunk.js.map",
+    "index.html": "/Monsters-goons-goblins/index.html",
+    "precache-manifest.4f40ba208ff30975082c713a7ac6d67f.js": "/Monsters-goons-goblins/precache-manifest.4f40ba208ff30975082c713a7ac6d67f.js",
+    "service-worker.js": "/Monsters-goons-goblins/service-worker.js",
+    "static/css/main.7626a7e2.chunk.css.map": "/Monsters-goons-goblins/static/css/main.7626a7e2.chunk.css.map",
+    "static/js/2.9aeb243a.chunk.js.LICENSE": "/Monsters-goons-goblins/static/js/2.9aeb243a.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff5bad28.js",
+    "static/js/runtime-main.8fe4388d.js",
     "static/js/2.9aeb243a.chunk.js",
     "static/css/main.7626a7e2.chunk.css",
-    "static/js/main.3f5f8bec.chunk.js"
+    "static/js/main.b3855f26.chunk.js"
   ]
 }
